@@ -30,5 +30,3 @@ my-package-a.my-module-a
 import my-package-a #SyntaxError: invalid syntax
 my-package-a.my-module-b
 </pre>
-
-https://wikidocs.net/135472
