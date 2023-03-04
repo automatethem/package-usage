@@ -4,12 +4,12 @@
 import mymodulea
 
 import mypackagea
-#mypackagea.mymodulea #AttributeError: module 'packagea' has no attribute 'modulea'
+mypackagea.mymodulea
 
 import my_module_a
 
 import my_package_a
-#my_package_a.my_module_a #AttributeError: module 'package_a' has no attribute 'module_a'
+my_package_a.my_module_a #AttributeError: module 'package_a' has no attribute 'module_a'
 
 #import my-module-a #SyntaxError: invalid syntax
 
