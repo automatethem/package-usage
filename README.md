@@ -20,7 +20,7 @@ import my_package_a
 my_package_a.my_module_b
 </pre>
 
-Incorrect usage (runtime error)
+Incorrect usage (runtime error, no - in package and module name)
 <pre>
 import my-module-a #SyntaxError: invalid syntax
 
