@@ -1,1 +1,1 @@
-print('package-a/module-a.py')
+print('my-package-a/my-module-a.py')
