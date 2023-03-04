@@ -13,6 +13,12 @@ import my_module_a
 import my_package_a
 my_package_a.my_module_a
 </pre>
+<pre>
+import mymodulea
+
+import mypackagea
+mypackagea.mymoduleb
+</pre>
 
 Incorrect usage (runtime error)
 <pre>
