@@ -6,13 +6,27 @@ import mymodulea
 
 import mypackagea
 mypackagea.mymodulea
+
+import mypackagea
+mypackagea.mymoduleb
 </pre>
 <pre>
 import my_module_a
 
 import my_package_a
 my_package_a.my_module_a
+
+import my_package_a
+my_package_a.my_module_b
 </pre>
+
+
+
+
+
+
+
+
 <pre>
 import mymodulea
 
