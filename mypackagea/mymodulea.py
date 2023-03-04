@@ -1,1 +1,1 @@
-print('packagea/modulea.py')
+print('mypackagea/mymodulea.py')
