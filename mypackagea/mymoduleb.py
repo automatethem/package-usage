@@ -1,2 +1,2 @@
-import mymodulea
-#from . import mymodulea
+#import mymodulea
+from . import mymodulea #혹은
