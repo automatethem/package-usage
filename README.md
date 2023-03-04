@@ -1,5 +1,6 @@
 # package-usage
 
+Correct usage
 <pre>
 import mymodulea
 
@@ -9,8 +10,11 @@ mypackagea.mymodulea
 import my_module_a
 
 import my_package_a
-my_package_a.my_module_a #AttributeError: module 'package_a' has no attribute 'module_a'
+my_package_a.my_module_a
+</pre>
 
+Incorrect usage (runtime error)
+<pre>
 #import my-module-a #SyntaxError: invalid syntax
 
 #import my-package-a #import package-a
