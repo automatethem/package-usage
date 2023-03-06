@@ -1,2 +1,1 @@
-#import mymodulea
-from . import mymodulea #or
+from . import mymodulea
